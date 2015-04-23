@@ -1,2 +1,2 @@
 # templatebot
-A bot with a webinterface made to shedule weekly threads on reddit.
+A bot with a web interface made to schedule weekly threads on reddit.
